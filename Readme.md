@@ -2,7 +2,12 @@ A simple Tetris game made by KumoCuSO4.<br/>
 Version: 0.0.1<br/> 
 
 **来一把紧张刺激的俄罗斯方块吧**
-<br/> <br/> 
+<br/> <br/> <br/>
+
+---
+准备修复的问题：<br/>
+1、数据不能保存在本地<br/>
+<br/>
 
 ---
 题外话：<br/> 
